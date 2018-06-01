@@ -1,4 +1,4 @@
-package com.mtw.kary.hellotoast;
+package com.mtw.kary.helloConstraint;
 
 import org.junit.Test;
 
